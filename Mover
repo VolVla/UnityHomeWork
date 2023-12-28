@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Sphere : MonoBehaviour
+public class Mover : MonoBehaviour
 {
     private float _speed = 1;
 
